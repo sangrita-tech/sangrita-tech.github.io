@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sangrita-tech.github.io/sitemap.xml
